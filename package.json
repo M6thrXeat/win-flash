@@ -1,0 +1,17 @@
+{
+  "name": "@slack/bolt-google-spreadsheets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Template for a Slack app built with Bolt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Aman Gupta and Shay DeWael",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^1.4.0",
+    "googleapis": "^51.0.0"
+  }
+}
